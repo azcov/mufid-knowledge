@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "aae1a895a49cd813",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d85e16f31d4e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826ddc5ee603f45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Research/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "8ba2fcddeeceffa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Company Structure"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "883db4f1044aba45",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4acaccbdd4074b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ccf1cb59d137e89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6da104a1367c7733",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "c",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5927af0aa5dcd731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98d499552daa77d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f2bd5907c573651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa7d8ddf8d2d487",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Company Structure"
+            }
+          },
+          {
+            "id": "1f178834fb7f3548",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Company Structure"
+            }
+          },
+          {
+            "id": "6858702b2b67ecbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "340df81fa420e79e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "081beedce92a5a45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Company Structure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8ba2fcddeeceffa3",
+  "lastOpenFiles": [
+    "03 - Areas/My Company/Mufid & Aziz Labs/Prospek.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/Roadmap.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/Hiring Plan.md",
+    "03 - Areas/Career/index.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/Financial Planning.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/index.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs/Vision & Mission.md",
+    "03 - Areas/My Company/Mufid & Aziz Labs",
+    "03 - Areas/My Company",
+    "01 - Journal/index.md",
+    "Home.md",
+    "03 - Areas/Health/index.md",
+    "06 - Research/Infrastructure/Credential_Storage.md",
+    "06 - Research/Technical/Monorepo_vs_Separate_Repos.md",
+    "06 - Research/Digital_Products/Financial_Tracker_Format.md",
+    "06 - Research/Digital_Products/Digital_Product_Platforms.md",
+    "06 - Research/Business_Ideas/Web_Directory_Ideas.md",
+    "06 - Research/Product_Research/Skincare_Platform_Research.md",
+    "06 - Research/Product_Research/DeenDaily_Domain_Research.md",
+    "06 - Research/Marketing_SEO/Free_SEO_Tools.md",
+    "06 - Research/Infrastructure/App_Store_Publishing.md",
+    "06 - Research/Infrastructure/Mail_Server_Options.md",
+    "06 - Research/Technical/Infrastructure_Solo_Dev.md",
+    "06 - Research/Technical/Go_Architecture_Options.md",
+    "06 - Research/Digital_Products/Ebook_Planner_Trends.md",
+    "06 - Research/Business_Ideas/Indonesian_App_Market.md",
+    "06 - Research/Business_Ideas/Indonesian_SaaS_Ideas.md",
+    "06 - Research/Product_Research",
+    "06 - Research/Marketing_SEO",
+    "06 - Research/Infrastructure",
+    "06 - Research/Digital_Products",
+    "06 - Research/Technical",
+    "06 - Research/Market_Research",
+    "06 - Research/Business_Ideas",
+    "gemini-conversation/Gemini Apps/download-1ef3a1dc45c2f59d/frame_0.png",
+    "gemini-conversation/Gemini Apps/e44f10d4756caca5.png",
+    "gemini-conversation/Gemini Apps/e362cb7c-a97a-40f3-bcac-12ca36108-3cfba06d4776a312.wav",
+    "gemini-conversation/Gemini Apps/image-2f4f7ca6a17e9910.jpg",
+    "gemini-conversation/Gemini Apps/image-6cfa50efe665032c.png",
+    "gemini-conversation/Gemini Apps/image-85b37c956b0ecf5f.jpg",
+    "gemini-conversation/Gemini Apps/image-ad0f9da69c65f87d.jpg",
+    "gemini-conversation/Gemini Apps/image-c254999efc2a1ffe_1.png",
+    "gemini-conversation/Gemini Apps/image-e4d8db99853bc427.png",
+    "gemini-conversation/Gemini Apps/image-f8594b438ec8eb23.png",
+    "gemini-conversation/Gemini Apps/9012ff9fe68e4b19.png",
+    "Untitled.canvas"
+  ]
+}

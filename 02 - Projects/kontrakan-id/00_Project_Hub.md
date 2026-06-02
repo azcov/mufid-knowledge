@@ -35,3 +35,6 @@ project: kontrakan-id
 
 ## Meetings
 *(Add dated notes to `02_Meetings/` e.g. `2026-06-03_Planning.md`)*
+
+## Marketing
+- [[06_Marketing/Social_Media/index|Social Media]]

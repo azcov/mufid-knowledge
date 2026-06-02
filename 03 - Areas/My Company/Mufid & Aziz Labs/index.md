@@ -19,6 +19,8 @@ tags: [company, index, mufid-aziz-labs]
 | [[Hiring Plan]] | Who to hire first, when, how much, where to find them |
 | [[Roadmap]] | Phase 0→4 timeline, product launch order, kill criteria |
 | [[Prospek]] | Market opportunity, per-product outlook, risks, why now |
+| [[Social Media Strategy]] | Which products need accounts, when, and what to post |
+| [[Meta Ads Setup]] | Business Manager, ad accounts, pages, pixels — how to structure |
 
 ## Milestones at a Glance
 

@@ -11,32 +11,13 @@
             "id": "826ddc5ee603f45f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Research/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "8ba2fcddeeceffa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Company Structure"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Company Structure"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Company Structure"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Company Structure"
+              "title": "Outline"
             }
           }
         ]
@@ -198,46 +176,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ba2fcddeeceffa3",
+  "active": "826ddc5ee603f45f",
   "lastOpenFiles": [
-    "03 - Areas/My Company/Mufid & Aziz Labs/Prospek.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/Roadmap.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/Hiring Plan.md",
-    "03 - Areas/Career/index.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/Financial Planning.md",
+    "07_marketing/social_media.md",
+    "07_marketing/projects.md",
+    "06 - Research/index.md",
+    "readme.md",
+    "home.md",
+    "07_marketing",
+    "06_research/index.md",
+    "06_research/technical/monorepo_vs_separate_repos.md",
+    "06_research/technical/infrastructure_solo_dev.md",
+    "06_research/technical/go_architecture_options.md",
+    "06_research/technical",
+    "06_research/product_research/skincare_platform_research.md",
+    "06_research/product_research/deendaily_domain_research.md",
+    "06_research/product_research",
+    "06_research/marketing_seo/free_seo_tools.md",
+    "06_research/marketing_seo",
+    "06_research/infrastructure/mail_server_options.md",
+    "06_research/infrastructure/credential_storage.md",
+    "06_research/infrastructure/app_store_publishing.md",
+    "06_research/infrastructure",
+    "06_research/digital_products/financial_tracker_format.md",
+    "06_research/digital_products/ebook_planner_trends.md",
+    "06_research/digital_products/digital_product_platforms.md",
+    "06_research/business_ideas/web_directory_ideas.md",
+    "06_research/business_ideas/indonesian_saas_ideas.md",
+    "06_research/business_ideas/indonesian_app_market.md",
+    "06_research/digital_products",
+    "06_research/business_ideas",
+    "06_research/0000_example.md",
+    "06_research",
+    "05_archive/index.md",
+    "05_archive",
+    "04_resources/tools/index.md",
+    "04_resources/tools",
+    "04_resources/ideas/index.md",
     "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/index.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/Vision & Mission.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs",
-    "03 - Areas/My Company",
-    "01 - Journal/index.md",
-    "Home.md",
-    "03 - Areas/Health/index.md",
-    "06 - Research/Infrastructure/Credential_Storage.md",
-    "06 - Research/Technical/Monorepo_vs_Separate_Repos.md",
-    "06 - Research/Digital_Products/Financial_Tracker_Format.md",
-    "06 - Research/Digital_Products/Digital_Product_Platforms.md",
-    "06 - Research/Business_Ideas/Web_Directory_Ideas.md",
-    "06 - Research/Product_Research/Skincare_Platform_Research.md",
-    "06 - Research/Product_Research/DeenDaily_Domain_Research.md",
-    "06 - Research/Marketing_SEO/Free_SEO_Tools.md",
-    "06 - Research/Infrastructure/App_Store_Publishing.md",
-    "06 - Research/Infrastructure/Mail_Server_Options.md",
-    "06 - Research/Technical/Infrastructure_Solo_Dev.md",
-    "06 - Research/Technical/Go_Architecture_Options.md",
-    "06 - Research/Digital_Products/Ebook_Planner_Trends.md",
-    "06 - Research/Business_Ideas/Indonesian_App_Market.md",
-    "06 - Research/Business_Ideas/Indonesian_SaaS_Ideas.md",
-    "06 - Research/Product_Research",
-    "06 - Research/Marketing_SEO",
-    "06 - Research/Infrastructure",
-    "06 - Research/Digital_Products",
-    "06 - Research/Technical",
-    "06 - Research/Market_Research",
-    "06 - Research/Business_Ideas",
     "gemini-conversation/Gemini Apps/download-1ef3a1dc45c2f59d/frame_0.png",
     "gemini-conversation/Gemini Apps/e44f10d4756caca5.png",
-    "gemini-conversation/Gemini Apps/e362cb7c-a97a-40f3-bcac-12ca36108-3cfba06d4776a312.wav",
     "gemini-conversation/Gemini Apps/image-2f4f7ca6a17e9910.jpg",
     "gemini-conversation/Gemini Apps/image-6cfa50efe665032c.png",
     "gemini-conversation/Gemini Apps/image-85b37c956b0ecf5f.jpg",

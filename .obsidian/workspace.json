@@ -11,10 +11,14 @@
             "id": "826ddc5ee603f45f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_projects/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_projects/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_projects/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02_projects/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           }
         ]
@@ -178,52 +185,52 @@
   },
   "active": "826ddc5ee603f45f",
   "lastOpenFiles": [
-    "07_marketing/social_media.md",
-    "07_marketing/projects.md",
-    "06 - Research/index.md",
-    "readme.md",
-    "home.md",
-    "07_marketing",
-    "06_research/index.md",
-    "06_research/technical/monorepo_vs_separate_repos.md",
-    "06_research/technical/infrastructure_solo_dev.md",
-    "06_research/technical/go_architecture_options.md",
-    "06_research/technical",
-    "06_research/product_research/skincare_platform_research.md",
-    "06_research/product_research/deendaily_domain_research.md",
-    "06_research/product_research",
-    "06_research/marketing_seo/free_seo_tools.md",
-    "06_research/marketing_seo",
-    "06_research/infrastructure/mail_server_options.md",
-    "06_research/infrastructure/credential_storage.md",
-    "06_research/infrastructure/app_store_publishing.md",
-    "06_research/infrastructure",
-    "06_research/digital_products/financial_tracker_format.md",
-    "06_research/digital_products/ebook_planner_trends.md",
-    "06_research/digital_products/digital_product_platforms.md",
-    "06_research/business_ideas/web_directory_ideas.md",
-    "06_research/business_ideas/indonesian_saas_ideas.md",
-    "06_research/business_ideas/indonesian_app_market.md",
-    "06_research/digital_products",
-    "06_research/business_ideas",
-    "06_research/0000_example.md",
-    "06_research",
-    "05_archive/index.md",
-    "05_archive",
-    "04_resources/tools/index.md",
-    "04_resources/tools",
-    "04_resources/ideas/index.md",
-    "03 - Areas/My Company/Mufid & Aziz Labs/Company Structure.md",
-    "gemini-conversation/Gemini Apps/download-1ef3a1dc45c2f59d/frame_0.png",
-    "gemini-conversation/Gemini Apps/e44f10d4756caca5.png",
-    "gemini-conversation/Gemini Apps/image-2f4f7ca6a17e9910.jpg",
-    "gemini-conversation/Gemini Apps/image-6cfa50efe665032c.png",
-    "gemini-conversation/Gemini Apps/image-85b37c956b0ecf5f.jpg",
-    "gemini-conversation/Gemini Apps/image-ad0f9da69c65f87d.jpg",
-    "gemini-conversation/Gemini Apps/image-c254999efc2a1ffe_1.png",
-    "gemini-conversation/Gemini Apps/image-e4d8db99853bc427.png",
-    "gemini-conversation/Gemini Apps/image-f8594b438ec8eb23.png",
-    "gemini-conversation/Gemini Apps/9012ff9fe68e4b19.png",
+    "gemini_conversation/gemini_apps_2/gemini_3_1_flash_lite_192a8fee608656de",
+    "chatgpt_convertation",
+    "claude_convertation/projects/019e76d6_e08e_7117_9830_d6fef0b61b94.json",
+    "claude_convertation/projects/019e69f4_d8c8_7542_baa1_210fea8f73f4.json",
+    "claude_convertation/projects/019e62d1_1526_718b_87c8_f8cca477ec16.json",
+    "claude_convertation/projects/019e3ced_3a56_7029_98a5_8dc042c86f8f.json",
+    "claude_convertation/projects/019e68aa_3503_71a3_9d87_ae5be0b340da.json",
+    "claude_convertation/projects/019e62c0_8e1d_7130_ab92_c4f7976dad7f.json",
+    "claude_convertation/design_chats/ee73f063_d71e_4c7b_8975_47aeb38ee94f.json",
+    "claude_convertation/projects/019df3bb_cf18_73bc_a2e9_09a39795d47f.json",
+    "claude_convertation/design_chats/820fea64_0600_4836_8d8f_bfb348bf567a.json",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_9.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_7.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_8.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_6.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_4.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_21.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_5.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_3.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_25.png",
+    "gemini_conversation/gemini_apps/download_1ef3a1dc45c2f59d/frame_26.png",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/provisioning/aws_resources.md",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/environments/staging_config.md",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/environments/prod_config.md",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/environments/dev_config.md",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/security_and_auth/iam_matrix.md",
+    "02_projects/slipgaji_id/06_marketing/social_media/target_audience.md",
+    "02_projects/slipgaji_id/06_marketing/social_media/index.md",
+    "02_projects/slipgaji_id/06_marketing/social_media/design_tokens.md",
+    "02_projects/slipgaji_id/06_marketing/social_media/content_types.md",
+    "02_projects/slipgaji_id/03_requirements/infrastructure/00_infra_overview.md",
+    "02_projects/slipgaji_id/04_research/competitor_analysis.md",
+    "02_projects/slipgaji_id/01_management/roadmap.md",
+    "02_projects/slipgaji_id/01_management/scope_and_goals.md",
+    "02_projects/slipgaji_id/01_management/budget_and_resources.md",
+    "02_projects/slipgaji_id/03_requirements/technical_architecture.md",
+    "02_projects/slipgaji_id/03_requirements/functional_specs.md",
+    "02_projects/slipgaji_id/00_project_hub.md",
+    "02_projects/kontrakan_id/03_requirements/infrastructure/provisioning/aws_resources.md",
+    "02_projects/kontrakan_id/03_requirements/infrastructure/environments/staging_config.md",
+    "02_projects/kontrakan_id/03_requirements/infrastructure/environments/prod_config.md",
+    "02_projects/kontrakan_id/03_requirements/infrastructure/environments/dev_config.md",
+    "02_projects/kontrakan_id/03_requirements/infrastructure/security_and_auth/iam_matrix.md",
+    "02_projects/kontrakan_id/06_marketing/social_media/target_audience.md",
+    "02_projects/kontrakan_id/06_marketing/social_media/index.md",
+    "02_projects/kontrakan_id/06_marketing/social_media/design_tokens.md",
     "Untitled.canvas"
   ]
 }
